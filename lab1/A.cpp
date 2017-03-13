@@ -7,15 +7,15 @@ int main() {
 	int num;
 	cout << "Please enter a number.\n";
 	cin >> num;
-	cout << num;
-	cout << " ";
 	while(num!=1){
+		cout << num;
+		cout << " ";
 		if(num%2==1)
 		num=3*num+1;
 		else
 		num=num/2;
-		cout << num;
-		cout << " ";
 	}
+	cout << num;
+	cout << " ";
 	return 0;
 }
