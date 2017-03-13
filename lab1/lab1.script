@@ -1,8 +1,8 @@
-Script started on 2017年03月13日 (週一) 18時31分31秒
+Script started on 2017年03月13日 (週一) 23時00分11秒
 [01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m whoami;pwd
 pd2vm
 /home/pd2vm/lab1
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git conm[Kfig -l
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git config -l
 user.name=Chioupo
 user.email=sos1991h@gmail.com
 core.repositoryformatversion=0
@@ -13,8 +13,8 @@ remote.origin.url=https://github.com/Chioupo/lab1.git
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
 branch.master.remote=origin
 branch.master.merge=refs/heads/master
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git clin[K[Kone https://github.com/Chioupo/lab1.git
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git clone https://github.com/Chioupo/lab1.git
 fatal: destination path 'lab1' already exists and is not an empty directory.
 [01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m exit
 
-Script done on 2017年03月13日 (週一) 18時33分24秒
+Script done on 2017年03月13日 (週一) 23時02分12秒
