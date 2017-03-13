@@ -1,5 +1,5 @@
-Script started on 2017年03月13日 (週一) 23時00分11秒
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m whoami;pwd
+Script started on 2017年03月13日 (週一) 23時12分53秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m cat lab1.scriptgit clone https://github.com/Chioupo/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Config -l[K[3Pwhoami;pwdsudo apt-get install heimdal-clients[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Ppush origin master[10Pgit pushremotecommit -m "Test"add .[K[1Pinitmv lab1.script lab1[4Pcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pca[C[C[C[C[C[C[C[C[C[C[C[C[C[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcd lab1script lab1.script[3Pca[C[C[C[C[C[C[C[C[C[C[C[C[C[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcd lab1git config --list[10Pcd lab1script lab1.script[3Pca[C[C[C[C[C[C[C[C[C[C[C[C[Cmv lab1.script lab1[11Pgit init[K[K[K[K[K[K[K[Kwhoami;pwd
 pd2vm
 /home/pd2vm/lab1
 [01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git config -l
@@ -13,8 +13,8 @@ remote.origin.url=https://github.com/Chioupo/lab1.git
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
 branch.master.remote=origin
 branch.master.merge=refs/heads/master
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git clone https://github.com/Chioupo/lab1.git
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git clone https:?[K//github.com/Chioupo/lab1.git
 fatal: destination path 'lab1' already exists and is not an empty directory.
 [01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m exit
 
-Script done on 2017年03月13日 (週一) 23時02分12秒
+Script done on 2017年03月13日 (週一) 23時14分33秒
